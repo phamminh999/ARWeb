@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281337873167",
+    "project_id": "vinworldxr",
+    "storage_bucket": "vinworldxr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281337873167:android:b02bb9c6781f000ef6347a",
+        "android_client_info": {
+          "package_name": "com.vinworldxr.minimapar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281337873167-q6ljq897i3v1117lermshq9pcraf83js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXeKidYiMkhV85vdnyBRlloAWwwyjxdOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281337873167-q6ljq897i3v1117lermshq9pcraf83js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
